@@ -23,7 +23,7 @@ Vous devez repérer le rond bleu situé devant la porte
 
 Vous placer dedans et ensuite presser la touche E
 
-[![2676230-136.jpg](https://i.postimg.cc/rs9YsDtC/2676230-136.jpg)](https://postimg.cc/BPXCwQpX)
+[![2676230-137.jpg](https://i.postimg.cc/XJPYhvvc/2676230-137.jpg)](https://postimg.cc/wyhzRgL7)
 
 Utiliser le menu
 --
