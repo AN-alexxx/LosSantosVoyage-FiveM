@@ -3,9 +3,9 @@
 Installation
 --
 Installer le dossier dans votre dossier Ressources de votre serveur et démarrez la ressources avec: 
-'''
+
 ensure tpdlc
-'''
+
 
 Localisation
 -- 
@@ -50,16 +50,21 @@ Téléportation vers Los Santos
 
 Vous devez faire la commande suivante afin de décharger le DLC, de recharger Los Santos et de vous téléporter à l'aéroport de LS
 
-'''
+
 /tpback
-'''
+
 
 [![2676230-142.jpg](https://i.postimg.cc/j5xfKCKP/2676230-142.jpg)](https://postimg.cc/t1cJNqs4)
 
 Futures Mises à Jour
 --
 -> Retéléportation vers Los Santos avec le menu
+
 -> Système économique (Prix pour la téléportation)
+
 -> ESSAYER de faire fonctionner North Yankton
+
 -> Intégrer les PNJ
+
 -> Redesign du menu
+
