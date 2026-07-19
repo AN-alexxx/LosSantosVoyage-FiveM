@@ -68,3 +68,6 @@ Futures Mises à Jour
 
 -> Redesign du menu
 
+-> Intégrer d'autres langues
+
+-> Minimap fonctionnelle
